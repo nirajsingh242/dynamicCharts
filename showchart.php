@@ -49,7 +49,7 @@ $ActualTuple = array($row["Communication"],$row["Planning"],$row["Modeling"],$ro
 </head>
 
 <body>
-  <div id="myChart"><a class="zc-ref" href="https://www.zingchart.com"></a></div>
+  <div id="myChart"><a class="zc-ref" ></a></div>
   <script>
     var myConfig = {
       type: 'bar',
